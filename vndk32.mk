@@ -224,7 +224,6 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-sp-26-arm32/libunwind.so:system/lib/vndk-sp-26/libunwind.so \
 	vendor/vndk/vndk-sp-26-arm32/libutils.so:system/lib/vndk-sp-26/libutils.so \
 	vendor/vndk/vndk-sp-26-arm32/libz.so:system/lib/vndk-sp-26/libz.so \
-	vendor/vndk/moreP/lib/libregionalization.so:system/lib/libregionalization.so \
 	vendor/vndk/vndk-27-arm32/android.frameworks.displayservice@1.0.so:system/lib/vndk-27/android.frameworks.displayservice@1.0.so \
 	vendor/vndk/vndk-27-arm32/android.frameworks.schedulerservice@1.0.so:system/lib/vndk-27/android.frameworks.schedulerservice@1.0.so \
 	vendor/vndk/vndk-27-arm32/android.frameworks.sensorservice@1.0.so:system/lib/vndk-27/android.frameworks.sensorservice@1.0.so \
@@ -717,6 +716,4 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-28-arm32/libandroidfw.so:system/lib/vndk-28/libandroidfw.so \
 	vendor/vndk/vndk-28-arm32/libhwui.so:system/lib/vndk-28/libhwui.so \
 	vendor/vndk/vndk-28-arm32/libinput.so:system/lib/vndk-28/libinput.so \
-	vendor/vndk/vndk-28-arm32/libstagefright_xmlparser.so:system/lib/vndk-28/libstagefright_xmlparser.so \
-	vendor/vndk/moreP/lib/libregionalization.so:system/lib/libregionalization.so \
-
+	vendor/vndk/vndk-28-arm32/libstagefright_xmlparser.so:system/lib/vndk-28/libstagefright_xmlparser.so
