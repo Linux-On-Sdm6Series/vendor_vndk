@@ -661,10 +661,5 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-sp-28-arm64/libutils.so:system/lib64/vndk-sp-28/libutils.so \
 	vendor/vndk/vndk-sp-28-arm64/libutilscallstack.so:system/lib64/vndk-sp-28/libutilscallstack.so \
 	vendor/vndk/vndk-sp-28-arm64/libz.so:system/lib64/vndk-sp-28/libz.so \
-	vendor/vndk/vndk-28-arm64/libandroid.so:system/lib/vndk-28/libandroid.so \
-	vendor/vndk/vndk-28-arm64/libandroid_runtime.so:system/lib/vndk-28/libandroid_runtime.so \
-	vendor/vndk/vndk-28-arm64/libandroidfw.so:system/lib/vndk-28/libandroidfw.so \
-	vendor/vndk/vndk-28-arm64/libhwui.so:system/lib/vndk-28/libhwui.so \
-	vendor/vndk/vndk-28-arm64/libinput.so:system/lib/vndk-28/libinput.so \
 	vendor/vndk/vndk-28-arm64/libstagefright_xmlparser.so:system/lib/vndk-28/libstagefright_xmlparser.so \
 

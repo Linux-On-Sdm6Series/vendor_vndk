@@ -460,7 +460,6 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-sp-27-arm32/libunwind.so:system/lib/vndk-sp-27/libunwind.so \
 	vendor/vndk/vndk-sp-27-arm32/libutils.so:system/lib/vndk-sp-27/libutils.so \
 	vendor/vndk/vndk-sp-27-arm32/libz.so:system/lib/vndk-sp-27/libz.so \
-	vendor/vndk/vndk-27-arm32/libandroid.so:system/lib/vndk-27/libandroid.so \
 	vendor/vndk/vndk-27-arm32/libandroid_runtime.so:system/lib/vndk-27/libandroid_runtime.so \
 	vendor/vndk/vndk-27-arm32/libandroidfw.so:system/lib/vndk-27/libandroidfw.so \
 	vendor/vndk/vndk-27-arm32/libinput.so:system/lib/vndk-27/libinput.so \
@@ -711,9 +710,4 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-sp-28-arm32/libutils.so:system/lib/vndk-sp-28/libutils.so \
 	vendor/vndk/vndk-sp-28-arm32/libutilscallstack.so:system/lib/vndk-sp-28/libutilscallstack.so \
 	vendor/vndk/vndk-sp-28-arm32/libz.so:system/lib/vndk-sp-28/libz.so \
-	vendor/vndk/vndk-28-arm32/libandroid.so:system/lib/vndk-28/libandroid.so \
-	vendor/vndk/vndk-28-arm32/libandroid_runtime.so:system/lib/vndk-28/libandroid_runtime.so \
-	vendor/vndk/vndk-28-arm32/libandroidfw.so:system/lib/vndk-28/libandroidfw.so \
-	vendor/vndk/vndk-28-arm32/libhwui.so:system/lib/vndk-28/libhwui.so \
-	vendor/vndk/vndk-28-arm32/libinput.so:system/lib/vndk-28/libinput.so \
 	vendor/vndk/vndk-28-arm32/libstagefright_xmlparser.so:system/lib/vndk-28/libstagefright_xmlparser.so
